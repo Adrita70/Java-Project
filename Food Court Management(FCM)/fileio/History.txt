@@ -1,0 +1,3 @@
+Quantity added :6 in Food Item ID: 234
+Quantity added :7 in Food Item ID: 456
+Quantity sold: 1
